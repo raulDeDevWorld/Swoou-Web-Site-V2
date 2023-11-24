@@ -187,7 +187,6 @@ export default function Home() {
               <img src="/obzon.png" className='h-[50px]' alt="" /> 
               <img src="/koguryokwan.png" className='h-[50px]' alt="" /> 
               <img src="/truek.png" className='h-[50px]' alt="" />
-
             </div>
           </div>
         </div>

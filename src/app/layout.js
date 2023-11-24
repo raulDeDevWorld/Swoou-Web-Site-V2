@@ -28,8 +28,8 @@ export default function RootLayout({ children }) {
                                       crear una pagina web,
                                       comprar pagina web" />
         <meta name="author" content="Raul Choque Romero, web and app developer, fundador de swoou.com" />
-
         <link rel="icon" href="/favicon.ico" />
+        <link rel="canonical" href="https://swoou.com"/>
       </head>
       <body className={inter.className}>
       <Navbar />
